@@ -32,4 +32,27 @@ Foi uma excelente prática que nos auxiliou a viver uma experiência de mercado,
 
 Os arquivivos index.js, .gitignore, .env, .eslintignore, .eslintrc.json, .stylelintignore, .stylelintrc.json foram fornecidos prontos pela escola.
 
+### Para executá-lo localmente
+
+Basta clonar o projeto:
+```
+git@github.com:Ivan-Mastrangelo/Project-Frontend-Online-Store.git
+```
+Entrar no diretório criado:
+```
+  cd Project-Frontend-Online-Store
+  ```
+Instalar as dependências do projeto:
+```
+  npm install
+  ```
+E iniciar o servidor:
+```
+  npm run start
+  ```
+Após esses comandos, acesse no navegador:
+```
+  http://localhost:3000/
+  ```
+
 ---
